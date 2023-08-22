@@ -1,0 +1,11 @@
+.transactions {
+  flex: 4;
+  padding: 20px;
+}
+
+.transactionsContent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}

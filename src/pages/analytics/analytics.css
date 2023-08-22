@@ -1,0 +1,11 @@
+.analytics {
+  flex: 4;
+  padding: 20px;
+}
+
+.analyticsContent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
